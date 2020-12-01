@@ -23,7 +23,7 @@ public class AppTest
 {
 	WebDriver driver; 
 	WebDriverWait wait; 
-	String url = "https://teamname.sitict.net/inte/index.php";
+	String url = "https://teamname.sitict.net/testforpractical/index.php";
 	String validEmail = "user@example.com";
 	String validPassword = "password1234";
 	String invalidEmail = "none@example.com";
